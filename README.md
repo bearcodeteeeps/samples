@@ -2,6 +2,7 @@
 
  - Automatic (generate `Dockerfile`)
    - [NodeJS app](https://github.com/digitalocean-appsail/sample-nodejs)
+   - [ExpressJS app](https://github.com/digitalocean-appsail/sample-expressjs)
    - [React app](https://github.com/digitalocean-appsail/sample-react)
    - [NextJS app](https://github.com/digitalocean-appsail/sample-nextjs)
    - [Python app](https://github.com/digitalocean-appsail/sample-python)
