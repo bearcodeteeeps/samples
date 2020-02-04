@@ -11,4 +11,5 @@
    - [Nginx app](https://github.com/digitalocean-appsail/sample-nginx)
    - [Golang app](https://github.com/digitalocean-appsail/sample-golang)
    - [Rails app](https://github.com/digitalocean-appsail/sample-rails)
+   - [Tomcat/Java app](https://github.com/digitalocean-appsail/sample-tomcat)
  
